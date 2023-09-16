@@ -1,0 +1,9 @@
+.shape[0].value
+
+tf.compat.v1.name_scope
+tf.compat.v1.name_scope
+
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
+https://stackoverflow.com/questions/61641320/tf1-code-does-not-work-with-tf2-could-someone-convert-this-tf1-code
